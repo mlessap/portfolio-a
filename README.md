@@ -1,11 +1,11 @@
-# Portfolio - Web Designer
+# Portfolio - Página de Esportes
 
 ## Tarefas
 
-- [ ] Header
+- [x] Header
     - [x]HTML
-    - [ ]CSS
-- [ ] Apresentação
-- [ ] Projetos
-- [ ] Conhecimentos
-- [ ] Orçamento
+    - [x]CSS
+- [ ] Resumo
+- [ ] Notícia 1
+- [ ] Notícia 2
+- [ ] Notícia 3
